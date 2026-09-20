@@ -1,0 +1,6 @@
+{
+  "name": "PKE Scanner Brasil",
+  "description": "Aplicativo brasileiro de observação ambiental e registro de fenômenos físicos incomuns. Projeto Jairo Bahia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
